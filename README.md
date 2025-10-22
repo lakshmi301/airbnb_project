@@ -30,5 +30,5 @@ Dataset can be placed in a folder named `dataset/` within the project directory.
 - **Environment:** Jupyter Notebook or Google Colab  
 - **Version Control:** Git and GitHub  
 
-## 5. Project Structure
+
 
